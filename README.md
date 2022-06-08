@@ -1,2 +1,2 @@
 My random Quote Generator: 
-Description: coming soooooon! 
+Description coming soooooon! 
